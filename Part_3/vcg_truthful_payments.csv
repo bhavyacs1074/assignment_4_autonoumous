@@ -1,0 +1,9 @@
+chosen_path,path_cost,edge,true_cost,selected,payment
+A-B-E-F,5.0,AB,3.0,True,4.0
+A-B-E-F,5.0,AC,2.0,False,0.0
+A-B-E-F,5.0,BD,2.0,False,0.0
+A-B-E-F,5.0,BE,1.0,True,2.0
+A-B-E-F,5.0,CE,3.0,False,0.0
+A-B-E-F,5.0,CF,5.0,False,0.0
+A-B-E-F,5.0,DF,2.0,False,0.0
+A-B-E-F,5.0,EF,1.0,True,3.0
